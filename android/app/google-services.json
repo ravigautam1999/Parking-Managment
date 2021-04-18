@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "557955518754",
+    "firebase_url": "https://parkingmanagement-81564.firebaseio.com",
+    "project_id": "parkingmanagement-81564",
+    "storage_bucket": "parkingmanagement-81564.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557955518754:android:b11d72d4366123a906d57b",
+        "android_client_info": {
+          "package_name": "com.parkingmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557955518754-rt5epe3i1v6iqjv0ned0jnv51fsunfjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGHenGJUzdT3LQt5ZZvgUJPlT7Du0IBX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557955518754-rt5epe3i1v6iqjv0ned0jnv51fsunfjt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
